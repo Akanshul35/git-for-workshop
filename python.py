@@ -1,2 +1,2 @@
 print("hello!!")
-new changes and commit by github
+print("new changes and commit by github")
